@@ -10,4 +10,6 @@
 模型训练与模型评测如同飞机的双翼，缺一不可。为解决“如何科学评价一个心理大模型”的行业难题，数业智能提出了 “CBT大模型全球首个中文评测数据集”。
 该评测基准从 共情能力、干预准确性、伦理安全性、对话流畅度等多个核心维度，对心理大模型进行全方位、标准化的评估。这一工作填补了中文语境下该领域评测的空白，其相关论文CBT-LLM-Test-Bench: Evaluating Large Language Models in Assisting Cognitive Behavioral Therapy已投递至数字健康领域顶刊Frontiers in Digital Health（Q1）上，旨在为行业发展树立权威、科学的标尺。
 “我们坚信，高质量的数据是释放AI在心理健康领域潜力的关键。”数业智能创始人表示，“我们构建的数据生态，不仅是公司的核心资产，更希望成为整个行业发展的基础设施。未来，我们将持续投入，与各界伙伴合作，让AI技术更负责任、更有效地服务于公众心理健康。
+
+演示环境体验：https://test.ai-platform.shuyeit.com:1443/demo/#/dataset
 联系方式：gdsy@shuyeit.com
